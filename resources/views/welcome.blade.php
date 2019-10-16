@@ -89,7 +89,7 @@
                     <a href="https://www.linkedin.com/in/-coreyandrews/">LinkedIn</a>
                     <a href="https://github.com/coreyandrews">GitHub</a>
                     <a href="#">Folio</a>
-                    <a href="#">Resume</a>
+                    <a href="#">Résumé</a>
 
                 </div>
             </div>
