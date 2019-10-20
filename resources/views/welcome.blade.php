@@ -9,7 +9,7 @@
         <a class="mx-4" href="https://github.com/coreyandrews" target="_blank">GitHub</a>
         <a class="mx-4" href="#" target="_blank">Folio</a>
         <a class="mx-4" href="#" target="_blank">Résumé</a>
-        <a class="mx-4" href="/about">contact</a>
+        <!-- <a class="mx-4" href="/about">contact</a> -->
     </div>
 </div>
 @endsection
